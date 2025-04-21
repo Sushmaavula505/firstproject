@@ -48,24 +48,7 @@ height: 80px;
 width: 80px;
 display: inline-block;
 }
-.letter7{
-color: brown;
-height: 80px;
-width: 80px;
-display: inline-block;
-}
-.letter8{
-color: blue;
-height: 80px;
-width: 80px;
-display: inline-block;
-}
-.letter9{
-color: aqua;
-height: 80px;
-width: 80px;
-display: inline-block;
-}
+
 .box{
 display: flex;
 justify-content: center;
